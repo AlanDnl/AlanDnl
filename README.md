@@ -11,6 +11,7 @@
 
 
 ## Project overview
+------
 
 This data analysis project aims to solve business questions in order to analyze and visualize hotel booking data. Furthermore, build a visual data story or dashboard using Power BI to present to the stakeholders.
 
