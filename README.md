@@ -18,7 +18,7 @@ This data analysis project aims to solve business questions in order to analyze 
 So, first we have two hotel types so it will be good to segment revenue by hotel type, also we want to understand if there is a trend for guest with personal cars and finally focus on average daily rate and guests to explore seasonality.
 
 ## Data Sources
-Hotel Data: The primary dataset used for this analysis is the "hotel__revenue_historical.xlsx" file, containing detalied information about each guest since 2018 to 2020.
+Hotel Data: The primary dataset used for this analysis is the "hotel__revenue_historical.xlsx" file, containing detailed information about each guest since 2018 to 2020.
 
 ## Tools
 - SQL server: Data cleaning and Data analysis
